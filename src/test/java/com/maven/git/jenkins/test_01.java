@@ -9,6 +9,6 @@ public class test_01 {
 	public void run() {
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\KUNAL BHATTA\\Desktop\\chromedriver.exe");
 	WebDriver driver= new ChromeDriver();
-	driver.get("https://flipkart.com");
+	driver.get("https://amazon.in");
 	}
 }
